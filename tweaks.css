@@ -1,0 +1,30 @@
+#homebutton {
+	color: white;
+	background-color: darkred;
+}
+
+#hometitle {
+	color: darkred;
+	text-shadow: 0 1px 30px rgba(218, 57, 57, 0.5);
+}
+
+#hometext {
+	color: white;
+	text-shadow: 0 1px 30px rgba(218, 57, 57, 0.5);
+}
+
+#bottomtext {
+	color: white;
+}
+
+#topnav {
+	color: white;
+}
+
+#topnav .active {
+	color: rgba(231, 76, 76, 1);
+}
+
+#topnav:hover {
+	color: rgb(34, 134, 231);
+}
